@@ -25,7 +25,7 @@ qlist = [{
   question: chalk.rgb(15, 100, 204)("Which one of the items I dont own?\n\tA. Bike\n\tB. Laptop\n\tC. Mobile\n"),
   answer: "A"
 }, {
-  question: chalk.rgb(15, 100, 204)("What\'s my nick name?\n\tA. venky\n\tB. venkatesh\n\tC. don\'t know\n"),
+  question: chalk.rgb(15, 100, 204)("What\'s my nick name?\n\tA. venky\n\tB. venkatesh\n\tC. kesari\n"),
   answer: "A"
 }
 ];
